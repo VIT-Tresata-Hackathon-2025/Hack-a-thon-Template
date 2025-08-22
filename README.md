@@ -30,14 +30,12 @@ Please fill out the details below carefully. This file will serve as your offici
 - Choose a topic relevant to the given hackathon theme.  
 - Submit this file along with your project repository.  
 
+## 📁 Folder Structure  
+│
+├── README.md   ← Team details (this file, updated by you)
+├── code/       ← All source code files
+├── docs/       ← Documentation, reports, presentations
+└── demo/       ← Screenshots, videos, demo links
 
-│
-├── submissions/
-│   ├── TEAM_NAME/
-│   │   ├── README.md   ← Team details (this file, updated by you)
-│   │   ├── code/       ← All source code files
-│   │   ├── docs/       ← Documentation, reports, presentations
-│   │   └── demo/       ← Screenshots, videos, demo links
-│
-└── guidelines/
-└── README.md       ← Hackathon rules and instructions
+
+
