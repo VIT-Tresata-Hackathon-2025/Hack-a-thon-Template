@@ -31,8 +31,7 @@ Please fill out the details below carefully. This file will serve as your offici
 - Submit this file along with your project repository.  
 
 ## 📁 Folder Structure  
-'''
-│
+'''│'''
 ├── README.md   ← Team details (this file, updated by you)
 ├── code/       ← All source code files
 ├── docs/       ← Documentation, reports, presentations
