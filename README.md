@@ -32,9 +32,8 @@ Please fill out the details below carefully. This file will serve as your offici
 
 ## 📁 Folder Structure  hackathon/
 
-1. Inside the `Team ID/` folder, fill in your **team details** in the `README.md`.  
-2. Place your files in the correct subfolders:  
+1. Place your files in the correct subfolders:  
    - `code/` → All source code files  
    - `docs/` → Documentation, reports, presentations  
    - `demo/` → Screenshots, demo videos, or links  
-3. Ensure your `README.md` has all team information filled correctly.  
+2. Ensure your `README.md` has all team information filled correctly.  
