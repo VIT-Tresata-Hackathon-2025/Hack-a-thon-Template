@@ -30,8 +30,7 @@ Please fill out the details below carefully. This file will serve as your offici
 - Choose a topic relevant to the given hackathon theme.  
 - Submit this file along with your project repository.  
 
-## 📁 Folder Structure  
-hackathon/
+## 📁 Folder Structure  hackathon/
 │
 ├── submissions/
 │   ├── README.md
