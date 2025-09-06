@@ -7,7 +7,6 @@ Please fill out the details below carefully. This file will serve as your offici
 
 ## 🆔 Team Information  
 - **Team Name:**  
-- **Registration Number (Team Leader):**  
 - **Hackathon Theme:**  
 - **Selected Topic / Problem Statement:**  
 
@@ -15,12 +14,11 @@ Please fill out the details below carefully. This file will serve as your offici
 
 ## 👥 Team Members  
 
-| S.No | Name         | Registration No. | Email ID             | Mobile No.  | Role (Leader/Member) |
-|------|--------------|------------------|----------------------|-------------|----------------------|
-| 1    |              |                  |                      |             |                      |
-| 2    |              |                  |                      |             |                      |
-| 3    |              |                  |                      |             |                      |
-| 4    |              |                  |                      |             |                      |
+| S.No | Name         | Registration No. | Email ID             | Mobile No.  | 
+|------|--------------|------------------|----------------------|-------------|
+| 1    |              |                  |                      |             |
+| 2    |              |                  |                      |             |
+| 3    |              |                  |                      |             |
 
 ---
 
