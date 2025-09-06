@@ -14,16 +14,16 @@ Please fill out the details below carefully. This file will serve as your offici
 
 ## 👥 Team Members  
 
-| S.No | Name         | Registration No. | Email ID             | Mobile No.  | 
-|------|--------------|------------------|----------------------|-------------|
-| 1    |              |                  |                      |             |
-| 2    |              |                  |                      |             |
-| 3    |              |                  |                      |             |
+| S.No | Name         | Registration No. | VIT Email ID         | Personal Email ID  | Mobile No.  | 
+|------|--------------|------------------|----------------------|--------------------|-------------|
+| 1    |              |                  |                      |                    |             |
+| 2    |              |                  |                      |                    |             |
+| 3    |              |                  |                      |                    |             |
 
 ---
 
 ## 📌 Notes  
-- Each team can have **3–4 members**.  
+- Each team can have **3 members**.  
 - Ensure that contact details (mobile & email) are **active and correct**.  
 - Choose a topic relevant to the given hackathon theme.  
 - Submit this file along with your project repository.  
