@@ -1,7 +1,7 @@
 # 🚀 Hackathon – Team Details  
 
 Welcome to the VIT-Tresata Hackathon 2025! 🎉  
-Please fill out the details below carefully. This file will serve as your official registration record.  
+Please fill out the details below carefully.
 
 ---
 
