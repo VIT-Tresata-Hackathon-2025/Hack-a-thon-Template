@@ -6,7 +6,7 @@ Please fill out the details below carefully. This file will serve as your offici
 ---
 
 ## 🆔 Team Information  
-- **Team Name:**  
+- **Team Name:**  Hackathon Team - 
 - **Hackathon Theme:**  
 - **Selected Topic / Problem Statement:**  
 
